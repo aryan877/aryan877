@@ -1,11 +1,11 @@
-## Hi 👋 My name is Aryan Kumar
-   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+## Hey 👋 
 
 - Currently learning -- **Git**
 
 - Ask me about -- **React, AWS and Java**
 
 - Reach me at -- **aryankumar877@gmail.com**
+   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 
 ### Skills
 
