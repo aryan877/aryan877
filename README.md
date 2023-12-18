@@ -1,6 +1,6 @@
 ## Hey 👋 
 
-- Currently learning -- **Git**
+- Currently learning -- **Kubernetes**
 
 - Ask me about -- **React, AWS and Java**
 
