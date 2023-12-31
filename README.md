@@ -1,6 +1,6 @@
 ## Hey 👋 
 
-- Currently learning -- **Kubernetes**
+- Currently learning -- **Kubernetes & Docker**
 
 - Ask me about -- **React, AWS and Java**
 
