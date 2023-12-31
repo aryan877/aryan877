@@ -4,7 +4,7 @@
 
 - Ask me about -- **React, AWS and TypeScript**
 
-- Reach me at -- **aryankumar877@gmail.com**
+- Reach me here -- **aryankumar877@gmail.com**
 
 ### Skills
 
