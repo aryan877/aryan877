@@ -2,7 +2,7 @@
 
 - Currently learning -- **Kubernetes & Docker**
 
-- Ask me about -- **React, AWS and TypeScript**
+- Ask me about -- **Next, AWS and TypeScript**
 
 - Reach me here -- **aryankumar877@gmail.com**
 
