@@ -1,6 +1,6 @@
 ## Hey 👋 
 
-- Currently learning -- **Kubernetes & Docker**
+- Currently learning -- **Golang**
 
 - Ask me about -- **Next, AWS and TypeScript**
 
