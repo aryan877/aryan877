@@ -1,6 +1,6 @@
 ## Hey 👋 
 
-- Currently learning -- **Golang**
+- Currently learning -- **rust-lang**
 
 - Ask me about -- **Next, AWS and TypeScript**
 
